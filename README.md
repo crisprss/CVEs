@@ -1,4 +1,4 @@
-# CVEs
+<img width="998" alt="image" src="https://github.com/user-attachments/assets/418b4525-8fc1-4ab2-853b-adc01f67d98c"># CVEs
 List for some of my cves
 
 ## CVE
@@ -13,7 +13,9 @@ List for some of my cves
 ### MicroSoft 
 [CVE-2024-38022](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38022)
 
-CVE-2024-38098
+[CVE-2024-38098](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38098)
+
+[CVE-2024-38084](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38084)
 
 ### Zoho Opmanager
 [CVE-2024-6748](https://www.manageengine.com/itom/advisory/cve-2024-6748.html)
