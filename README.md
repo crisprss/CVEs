@@ -17,6 +17,9 @@ List for some of my cves
 
 [CVE-2024-38084](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38084)
 
+### Apple
+[CVE-2024-44193](https://support.apple.com/en-us/121328)
+
 ### Zoho Opmanager
 [CVE-2024-6748](https://www.manageengine.com/itom/advisory/cve-2024-6748.html)
 
