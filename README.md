@@ -25,3 +25,6 @@ List for some of my cves
 
 ### Spring
 [CVE-2024-22263](https://spring.io/security/cve-2024-22263)
+
+### FoxitPDF
+[CVE-2024-38393](https://www.foxit.com/support/security-bulletins.html)
