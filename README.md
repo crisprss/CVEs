@@ -25,6 +25,8 @@ List for some of my cves
 ### Zoho Opmanager
 [CVE-2024-6748](https://www.manageengine.com/itom/advisory/cve-2024-6748.html)
 
+CVE-2024-9871
+
 ### Spring
 [CVE-2024-22263](https://spring.io/security/cve-2024-22263)
 
