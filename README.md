@@ -1,7 +1,9 @@
 # CVEs
-List for some of my cves
+List for some of my cves in 2024
 
-## CVE
+
+
+## CVE of 2024
 
 ### Jetbrains Teamcity
 [CVE-2024-24942](https://www.jetbrains.com/privacy-security/issues-fixed/)
