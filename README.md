@@ -23,6 +23,8 @@ List for some of my cves in 2024
 
 [CVE-2024-49051](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-49051)
 
+[CVE-2024-49107](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-49107)
+
 ### Apple
 [CVE-2024-44193](https://support.apple.com/en-us/121328)
 
