@@ -33,6 +33,9 @@ List for some of my cves in 2024
 
 CVE-2024-9871
 
+### Realtek
+CVE-2024-11857
+
 ### Spring
 [CVE-2024-22263](https://spring.io/security/cve-2024-22263)
 
