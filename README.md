@@ -1,6 +1,8 @@
 # CVEs
-List for some of my cves in 2024
+List for some of my cves
 
+## CVE of 2024
+[CVE-2025-0651](https://github.com/advisories/GHSA-9g4q-mq35-ffg3)
 
 
 ## CVE of 2024
