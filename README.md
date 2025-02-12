@@ -1,9 +1,9 @@
 # CVEs
 List for some of my cves
 
-## CVE of 2024
+## CVE of 2025
 [CVE-2025-0651](https://github.com/advisories/GHSA-9g4q-mq35-ffg3)
-
+[CVE-2025-21347](https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2025-21347)
 
 ## CVE of 2024
 
