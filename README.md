@@ -38,6 +38,10 @@ CVE-2024-9871
 ### Realtek
 CVE-2024-11857
 
+### HP
+[CVE-2024-27460](https://support.hp.com/us-en/document/ish_9869257-9869285-16/hpsbpy03895)
+[CVE-2024-6147](https://support.hp.com/us-en/document/ish_9869257-9869285-16/hpsbpy03895)
+
 ### Spring
 [CVE-2024-22263](https://spring.io/security/cve-2024-22263)
 
