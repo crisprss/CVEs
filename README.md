@@ -3,7 +3,14 @@ List for some of my cves
 
 ## CVE of 2025
 [CVE-2025-0651](https://github.com/advisories/GHSA-9g4q-mq35-ffg3)
+
+## Microsoft
+
 [CVE-2025-21347](https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2025-21347)
+
+## Intel 
+
+CVE-2025-20099
 
 ## CVE of 2024
 
@@ -47,3 +54,7 @@ CVE-2024-11857
 
 ### FoxitPDF
 [CVE-2024-38393](https://www.foxit.com/support/security-bulletins.html)
+
+### Others
+
+CVE-2024-56909
