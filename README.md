@@ -12,6 +12,10 @@ List for some of my cves
 
 CVE-2025-20099
 
+## Others
+CVE-2025-0179 (WatchGuard)
+CVE-2025-25230 (VMWare Horizon)
+
 ## CVE of 2024
 
 ### Jetbrains Teamcity
