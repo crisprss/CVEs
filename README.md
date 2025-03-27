@@ -8,6 +8,8 @@ List for some of my cves
 
 [CVE-2025-21347](https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2025-21347)
 
+
+[CVE-2025-21204]
 ## Intel 
 
 CVE-2025-20099
