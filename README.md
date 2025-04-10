@@ -46,7 +46,7 @@ CVE-2025-25230 (VMWare Horizon)
 ### Zoho Opmanager
 [CVE-2024-6748](https://www.manageengine.com/itom/advisory/cve-2024-6748.html)
 
-CVE-2024-9871
+[CVE-2024-9871](https://www.manageengine.com/itom/advisory/cve-2024-9871.html)
 
 ### Realtek
 CVE-2024-11857
