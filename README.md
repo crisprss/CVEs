@@ -16,7 +16,9 @@ CVE-2025-20099
 
 ## Others
 CVE-2025-0179 (WatchGuard)
-CVE-2025-25230 (VMWare Horizon)
+
+VMWare
+[CVE-2025-25230](https://www.omnissa.com/omsa-2025-0001/)
 
 ## CVE of 2024
 
