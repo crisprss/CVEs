@@ -4,6 +4,7 @@ List for some of my cves
 ## CVE of 2025
 [CVE-2025-0651](https://github.com/advisories/GHSA-9g4q-mq35-ffg3)
 [CVE-2025-3617](https://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1727.html)
+[CVE-2025-32817](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2025-0007)
 
 ## Microsoft
 
