@@ -7,6 +7,7 @@ List for some of my cves
 [CVE-2025-32817](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2025-0007)
 
 ## Microsoft
+[CVE-2025-32721](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-32721)
 
 [CVE-2025-21347](https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2025-21347)
 
