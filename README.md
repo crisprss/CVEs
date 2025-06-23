@@ -55,7 +55,7 @@ VMWare
 [CVE-2024-9871](https://www.manageengine.com/itom/advisory/cve-2024-9871.html)
 
 ### Realtek
-CVE-2024-11857
+[CVE-2024-11857](https://github.com/advisories/GHSA-vh52-rw4g-55j6)
 
 ### HP
 [CVE-2024-27460](https://support.hp.com/us-en/document/ish_9869257-9869285-16/hpsbpy03895)
