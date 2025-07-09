@@ -8,6 +8,8 @@ List for some of my cves
 [CVE-2024-8404](https://www.papercut.com/kb/Main/security-bulletin-may-2025/)
 
 ## Microsoft
+[CVE-2025-49680](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-49680)
+
 [CVE-2025-32721](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-32721)
 
 [CVE-2025-21347](https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2025-21347)
