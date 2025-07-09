@@ -20,6 +20,7 @@ List for some of my cves
 ## Intel 
 
 CVE-2025-20099
+CVE-2025-24327
 
 ## Others
 CVE-2025-0179 (WatchGuard)
