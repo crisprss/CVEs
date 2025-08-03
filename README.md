@@ -53,6 +53,9 @@ VMWare
 
 [CVE-2024-49107](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-49107)
 
+### Synology
+[CVE-2024-11399](https://www.synology.com/zh-tw/security/advisory/Synology_SA_24_26)
+
 ### Apple
 [CVE-2024-44193](https://support.apple.com/en-us/121328)
 
