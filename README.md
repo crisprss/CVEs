@@ -11,6 +11,8 @@ List for some of my cves
 [CVE-2025-2790](https://www.zerodayinitiative.com/advisories/ZDI-25-590/)
 
 ## Microsoft
+[CVE-2025-21195](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-21195)
+
 [CVE-2025-49680](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-49680)
 
 [CVE-2025-32721](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-32721)
