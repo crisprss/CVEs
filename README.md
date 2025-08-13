@@ -24,7 +24,7 @@ List for some of my cves
 [CVE-2025-21204](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-21204)
 ## Intel 
 
-CVE-2025-20099
+[CVE-2025-20099](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-01298.html)
 CVE-2025-24327
 
 ## Others
