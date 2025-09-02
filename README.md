@@ -9,6 +9,8 @@ List for some of my cves
 [CVE-2024-8404](https://www.papercut.com/kb/Main/security-bulletin-may-2025/)
 [CVE-2025-52837](https://helpcenter.trendmicro.com/en-us/article/TMKA-12946)
 [CVE-2025-2790](https://www.zerodayinitiative.com/advisories/ZDI-25-590/)
+[CVE-2025-24287](https://www.zerodayinitiative.com/advisories/ZDI-25-649/)
+
 
 ## Microsoft
 [CVE-2025-21195](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-21195)
@@ -22,6 +24,8 @@ List for some of my cves
 [CVE-2025-29975](https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2025-29975)
 
 [CVE-2025-21204](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-21204)
+
+[CVE-2025-54116]()
 ## Intel 
 
 [CVE-2025-20099](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-01298.html)
