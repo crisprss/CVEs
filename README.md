@@ -13,6 +13,8 @@ List for some of my cves
 
 
 ## Microsoft
+[CVE-2025-54116](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-54116)
+
 [CVE-2025-21195](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-21195)
 
 [CVE-2025-49680](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-49680)
