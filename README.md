@@ -32,7 +32,8 @@ List for some of my cves
 ## Intel 
 
 [CVE-2025-20099](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-01298.html)
-CVE-2025-24327
+[CVE-2025-24327](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-01362.html)
+
 
 ## Others
 CVE-2025-0179 (WatchGuard)
