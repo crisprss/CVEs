@@ -11,6 +11,7 @@ List for some of my cves
 [CVE-2025-2790](https://www.zerodayinitiative.com/advisories/ZDI-25-590/)
 [CVE-2025-24287](https://www.zerodayinitiative.com/advisories/ZDI-25-649/)
 [CVE-2025-9844](https://help.salesforce.com/s/articleView?id=005224301&type=1)
+CVE-2025-67905
 
 
 ## Microsoft
