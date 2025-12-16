@@ -38,6 +38,8 @@ CVE-2025-67905
 [CVE-2025-20099](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-01298.html)
 [CVE-2025-24327](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-01362.html)
 
+## Adobe
+[CVE-2025-64896](https://helpx.adobe.com/security/products/creative-cloud/apsb25-120.html)
 
 ## Others
 CVE-2025-0179 (WatchGuard)
