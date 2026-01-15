@@ -31,7 +31,7 @@ CVE-2025-67905
 
 [CVE-2025-54116]()
 ## Intel 
-
+[CVE-2025-36511]
 [CVE-2025-32001](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-01334.html)
 [CVE-2025-27246](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-01334.html)
 [CVE-2025-25059](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-01331.html)
