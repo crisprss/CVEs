@@ -13,6 +13,8 @@ List for some of my cves
 [CVE-2025-9844](https://help.salesforce.com/s/articleView?id=005224301&type=1)
 CVE-2025-67905
 
+Elastic: [CVE-2025-25011](https://discuss.elastic.co/t/beats-windows-installer-8-18-6-8-19-3-9-0-6-9-1-0-security-update-esa-2025-12/380558)
+
 
 ## Microsoft
 [CVE-2025-54116](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-54116)
