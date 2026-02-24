@@ -33,6 +33,7 @@ Elastic: [CVE-2025-25011](https://discuss.elastic.co/t/beats-windows-installer-8
 
 [CVE-2025-54116]()
 ## Intel 
+[CVE-2025-24918](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-01400.html)
 [CVE-2025-32453](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-01385.html)
 [CVE-2025-36511](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-01414.html)
 [CVE-2025-32001](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-01334.html)
