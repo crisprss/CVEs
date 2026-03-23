@@ -3,15 +3,25 @@ List for some of my cves
 
 ## CVE of 2025
 Jetbrains Teamcity:[CVE-2025-54530](https://www.jetbrains.com/privacy-security/issues-fixed/)
+
 [CVE-2025-0651](https://github.com/advisories/GHSA-9g4q-mq35-ffg3)
+
 [CVE-2025-3617](https://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1727.html)
+
 [CVE-2025-32817](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2025-0007)
+
 [CVE-2024-8404](https://www.papercut.com/kb/Main/security-bulletin-may-2025/)
+
 TrendMicro:[CVE-2025-52837](https://helpcenter.trendmicro.com/en-us/article/TMKA-12946)
+
 [CVE-2025-2790](https://www.zerodayinitiative.com/advisories/ZDI-25-590/)
+
 [CVE-2025-24287](https://www.zerodayinitiative.com/advisories/ZDI-25-649/)
+
 salesforce:[CVE-2025-9844](https://help.salesforce.com/s/articleView?id=005224301&type=1)
+
 MalwareBytes: [CVE-2025-67905](https://www.malwarebytes.com/secure/cves/cve-2025-67905)
+
 Cisco Splunk: [CVE-2026-20143](https://advisory.splunk.com/advisories/SVD-2026-0208)
 
 Elastic: [CVE-2025-25011](https://discuss.elastic.co/t/beats-windows-installer-8-18-6-8-19-3-9-0-6-9-1-0-security-update-esa-2025-12/380558)
