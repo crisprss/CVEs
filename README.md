@@ -1,6 +1,9 @@
 # CVEs
 List for some of my cves
 
+## CVE of 2026
+Spring : [CVE-2026-22745](https://spring.io/security/cve-2026-22745)
+
 ## CVE of 2025
 Jetbrains Teamcity:[CVE-2025-54530](https://www.jetbrains.com/privacy-security/issues-fixed/)
 
