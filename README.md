@@ -4,6 +4,8 @@ List for some of my cves
 ## CVE of 2026
 Spring : [CVE-2026-22745](https://spring.io/security/cve-2026-22745)
 
+Microsoft : [CVE-2026-42834](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-42834)
+
 ## CVE of 2025
 Jetbrains Teamcity:[CVE-2025-54530](https://www.jetbrains.com/privacy-security/issues-fixed/)
 
@@ -31,6 +33,8 @@ Elastic: [CVE-2025-25011](https://discuss.elastic.co/t/beats-windows-installer-8
 
 
 ## Microsoft
+
+
 [CVE-2025-54116](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-54116)
 
 [CVE-2025-21195](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-21195)
