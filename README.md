@@ -6,6 +6,7 @@ Spring : [CVE-2026-22745](https://spring.io/security/cve-2026-22745)
 
 Microsoft : [CVE-2026-42834](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-42834)
 [CVE-2026-49791](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-49791)
+[CVE-2026-62747](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62747)
 
 ## CVE of 2025
 Jetbrains Teamcity:[CVE-2025-54530](https://www.jetbrains.com/privacy-security/issues-fixed/)
