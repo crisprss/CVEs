@@ -11,6 +11,14 @@ Microsoft : [CVE-2026-42834](https://msrc.microsoft.com/update-guide/vulnerabili
 [CVE-2026-62693](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62693)
 [CVE-2026-69692](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69692)
 [CVE-2026-61936](https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2026-61936)
+[CVE-2026-83691](https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2026-83691)
+[CVE-2026-83849](https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2026-83849)
+[CVE-2026-85338](https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2026-85338)
+[CVE-2026-88098](https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2026-88098)
+[CVE-2026-85910](https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2026-85910)
+[CVE-2026-85911](https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2026-85911)
+[CVE-2026-85884](https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2026-85884)
+[CVE-2026-70227](https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2026-70227)
 
 ## CVE of 2025
 Jetbrains Teamcity:[CVE-2025-54530](https://www.jetbrains.com/privacy-security/issues-fixed/)
